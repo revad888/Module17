@@ -1,0 +1,1 @@
+Для расчетов создан интерфейс ICalculateInterest, который реализуется в классах CalculateUsualInterest(для обычных) и CalculateCorpAccountInterest(для зарплатных). В классе Account создано приватное поле(calculateMethod) для хранения механизма расчёта и метод(SetCalculateMetho) для его передачи в класс, а так же метод для расчёта CalculateInterest
